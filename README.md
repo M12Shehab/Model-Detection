@@ -1,4 +1,4 @@
-# Textual Data Language Detection Model
+# Detection Model for Textual Data Language 
 
 This repository contains a machine learning model designed to detect the language of textual data. It is an efficient and accurate solution for identifying the language of text inputs, making it useful for various applications such as natural language processing, multilingual content management, and more.
 
