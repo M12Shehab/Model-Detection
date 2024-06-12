@@ -13,6 +13,7 @@ This repository contains a machine learning model designed to detect the languag
 ## Technologies Used
 - **Docker Containers**: The application is containerized using Docker for easy deployment and scalability.
 - **Powered by Copilot**: This project leverages GitHub Copilot for code suggestions and improvements.
+- **Performance Testing with Locust**: This project uses Locust for load testing to ensure the application can handle high traffic and large datasets efficiently.
 
 ## Installation
 
