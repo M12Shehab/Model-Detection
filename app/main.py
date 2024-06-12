@@ -42,6 +42,6 @@ def predict(payload: TextIn):
     language = predict_pipeline(payload.text)
     return {"language": language}
 
-# if __name__ == "__main__":
-#     import uvicorn
-#     uvicorn.run(app, host="0.0.0.0", port=8080)
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run(app, host="0.0.0.0", port=8080)
